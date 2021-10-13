@@ -6,7 +6,7 @@
 
 > I'm n0ruSh, living in Hangzhou
 
-* [Email: michael2ib1989@gmail.com](michael2ib1989@gmail.co)
+* [zhihu](https://www.zhihu.com/people/zheng-jian-hua-36)
 * [yuque](https://www.yuque.com/n0rush)
 * [medium](https://michaelzheng.medium.com/)
 
