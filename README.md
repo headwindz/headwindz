@@ -6,6 +6,5 @@
 
 > I'm n0ruSh, living in Hangzhou
 
-* [zhihu](https://www.zhihu.com/people/zheng-jian-hua-36)
 * [medium](https://michaelzheng.medium.com/)
 
