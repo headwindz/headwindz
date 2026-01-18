@@ -1,7 +1,15 @@
-#### Hi there 👋
+## Hi there
 
-<a href="https://github-readme-stats.vercel.app/api?username=headwindz&show_icons=true&theme=algolia&hide_title=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=headwindz&show_icons=true&theme=algolia&hide_title=true" />
-</a>
+<p align="left">
+  <a href="https://headwindz.me/about">me</a> .
+  <a href="https://headwindz.me/blog">blogs</a> .
+  <a href="https://headwindz.me/projects">projects</a>
+</p>
 
-> I'm headwindz. Passionate about web and crypto.
+## 🚀 About Me
+
+I'm a passionate developer with a strong interest in:
+- 🌐 **Web Development** - Building modern, scalable web applications
+- 💎 **Blockchain & Crypto** - Exploring decentralized technologies
+
+💡 *"Building the future, one commit at a time"*
